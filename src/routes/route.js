@@ -8,4 +8,4 @@ router.get('/:urlCode', urlcontroller.getUrlCode)
 
 
 //export router
-module.exports = router;
+module.exports = router
